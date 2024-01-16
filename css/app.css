@@ -49,7 +49,8 @@ h6 {
 }
 .bg-brand {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.7);
-  background: #cf905b;
+  /* background: #cf905b; */
+  background: linear-gradient(to right, #8b56cc, #3da6ac, #15c897);
 
   background-size: 100%;
 }
@@ -133,8 +134,8 @@ h6 {
 /* --- about ----- */
 
 .about {
-  background: #cf905b;
-  /* background: radial-gradient(circle, rgb(22 132 200) 0%, rgb(13 165 201) 100%); */
+  /* background: #cf905b; */
+  background: linear-gradient(to right, #8b56cc, #3da6ac, #15c897);
   color: #fff;
 }
 .about p {
